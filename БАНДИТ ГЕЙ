@@ -1,0 +1,2 @@
+gun=require(game:GetService("Players").Gamukulus2323.Backpack["Warsport LVOA-S"]["ACS_Modulo"].Variaveis.Settings)
+gun.Bullets = 20
